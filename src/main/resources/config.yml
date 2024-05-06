@@ -1,5 +1,5 @@
-spawnRadius: 50
-multiplyValue: 5
+spawnRadius: 20
+multiplyValue: 3
 boostEnabled: true
 world: world
 message: "Drücke %key% um dich zu Boosten."
